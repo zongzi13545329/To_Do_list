@@ -11,6 +11,8 @@ this list will have four parts,including english_related,Professional Learning r
 raleted files :
 python data structure:https://github.com/zongzi13545329/Python-Data-structure-
 
-the project I am reading now:
+the project I am following  now:
+1.books about programming :https://github.com/zongzi13545329/free-programming-books
+2.study machine learning homemaded :https://github.com/zongzi13545329/homemade-machine-learning
 
 
