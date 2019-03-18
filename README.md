@@ -12,7 +12,10 @@ raleted files :
 python data structure:https://github.com/zongzi13545329/Python-Data-structure-
 
 the project I am following  now:
+
+
 1.books about programming :https://github.com/zongzi13545329/free-programming-books
 2.study machine learning homemaded :https://github.com/zongzi13545329/homemade-machine-learning
+3.codes about machine learning :https://github.com/fengdu78/lihang-code/tree/master/code
 
 
