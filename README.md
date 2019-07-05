@@ -1,6 +1,6 @@
 # To_Do_list
 
-This is the okr of mylife during 2019.
+This is the OKR for me during 2019.
 
 I hope to be a better person even I have been so lazy for a long time.
 
