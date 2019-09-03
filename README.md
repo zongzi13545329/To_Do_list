@@ -16,3 +16,9 @@ python data structure: https://github.com/zongzi13545329/Python-Data-structure-
 1. books about programming: https://github.com/zongzi13545329/free-programming-books                               
 2. write all the models by numpy:https://github.com/ddbourgin/numpy-ml
 3. CS231n:https://study.163.com/course/courseLearn.htm?courseId=1003223001#/learn/video?lessonId=1003809144&courseId=1003223001
+
+
+September OKR：
+1.C++ primer
+2.AI platform finish two models:YOLOv3 and M2Det
+3.
